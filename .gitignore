@@ -30,3 +30,9 @@
 
 # Debug files
 *.dSYM/
+
+# Editor tmp files
+*~
+
+# Executable
+sct
