@@ -72,4 +72,3 @@ main(int argc, char **argv)
 		XFree(crtc_gamma);
 	}
 }
-
